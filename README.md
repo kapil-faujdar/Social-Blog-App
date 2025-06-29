@@ -17,18 +17,17 @@
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="![1](https://github.com/user-attachments/assets/af47223c-b84e-4d93-b748-f6618bae9ace)" width="150"/>
-  <img src="![2](https://github.com/user-attachments/assets/f65b9bd7-33ae-4e21-bd5c-335532da5cd3)" width="150"/>
-  <img src="![3](https://github.com/user-attachments/assets/1a4c4970-ec41-481a-a412-f3d286191e3a)" width="150"/> 
-</p>
-  <img src="![4](https://github.com/user-attachments/assets/f5e4a09d-c664-402e-8231-fb4ce06082b9)" width="150"/>
-  <img src="![5](https://github.com/user-attachments/assets/dcb10ff2-bd81-4486-8190-9181ebcf11d4)" width="150"/>
-  <img src="![6](https://github.com/user-attachments/assets/06ea07a5-44c9-4187-9d05-4071d314faa8)" width="150"/>
-  <img src="![7](https://github.com/user-attachments/assets/f93e691b-0549-4f42-908f-40df6768a8bb)" width="150"/>
-<p float="left">
+  <img src="https://github.com/user-attachments/assets/af47223c-b84e-4d93-b748-f6618bae9ace" width="150"/>
+  <img src="https://github.com/user-attachments/assets/f65b9bd7-33ae-4e21-bd5c-335532da5cd3" width="150"/>
+  <img src="https://github.com/user-attachments/assets/1a4c4970-ec41-481a-a412-f3d286191e3a" width="150"/>
 </p>
 
----
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/f5e4a09d-c664-402e-8231-fb4ce06082b9" width="150"/>
+  <img src="https://github.com/user-attachments/assets/dcb10ff2-bd81-4486-8190-9181ebcf11d4" width="150"/>
+  <img src="https://github.com/user-attachments/assets/06ea07a5-44c9-4187-9d05-4071d314faa8" width="150"/>
+  <img src="https://github.com/user-attachments/assets/f93e691b-0549-4f42-908f-40df6768a8bb" width="150"/>
+</p>
 
 ## 🎥 Demo Video
 
