@@ -101,20 +101,21 @@ https://github.com/user-attachments/assets/dc931939-098e-4e2c-9706-a76eb5cfc7e3
 
 ---
 
-## **📦 Firestore Schemas**
+## 📦 Firestore Schemas
 
-**1. users Collection**
+### 🔹 1. `users` Collection
 
 Each document represents a user and is identified by their Firebase Auth UID.
 
+```json
 {
-"uid": "string",                // User's UID (same as document ID)
-"email": "string",              // User's email address
-"username": "string",           // Unique, lowercase username
-"profilePicUrl": "string",      // URL to profile picture (can be empty)
-"bio": "string",                // User's bio (can be empty)
-"followers": ["uid1", ...],     // Array of UIDs who follow this user
-"following": ["uid2", ...]      // Array of UIDs this user follows
+  "uid": "string",                // User's UID (same as document ID)
+  "email": "string",              // User's email address
+  "username": "string",           // Unique, lowercase username
+  "profilePicUrl": "string",      // URL to profile picture (can be empty)
+  "bio": "string",                // User's bio (can be empty)
+  "followers": ["uid1", ...],     // Array of UIDs who follow this user
+  "following": ["uid2", ...]      // Array of UIDs this user follows
 }
 
 **2. blogs Collection**
