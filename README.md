@@ -27,10 +27,7 @@
 
 ## 🎥 Demo Video
 
-<video width="300" controls>
   <source src="https://github.com/user-attachments/assets/ca08b4d8-7fa0-4396-b9e5-a9b6af94360d" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 
 ---
