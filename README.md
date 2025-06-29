@@ -118,10 +118,12 @@ Each document represents a user and is identified by their Firebase Auth UID.
   "following": ["uid2", ...]      // Array of UIDs this user follows
 }
 
+```
+
 **2. blogs Collection**
 
 Each document represents a blog post.
-
+```ts
 {
 "authorId": "string",           // UID of the author
 "authorName": "string",         // Username of the author (denormalized for display)
@@ -131,7 +133,7 @@ Each document represents a blog post.
 "updatedAt": Timestamp,         // Firestore timestamp of last update
 "likes": ["uid1", "uid2", ...]  // Array of UIDs who liked this blog
 }
-
+```
 **Notes:**
 
 - All usernames are unique and lowercase.
