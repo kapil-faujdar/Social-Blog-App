@@ -1,0 +1,64 @@
+name: my_social_blog_app
+description: A simple blog app
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.17.8
+  cloud_firestore: ^4.15.8
+
+  # State management
+  provider: ^6.1.2
+
+  # UI & Utilities
+  cached_network_image: ^3.3.1
+  lottie: ^2.7.0
+  flutter_spinkit: ^5.2.0
+  google_fonts: ^6.1.0
+  flutter_quill: ^9.2.3
+  intl: ^0.20.2
+  uuid: ^4.5.1
+  smooth_page_indicator: ^1.1.0
+  flutter_slidable: ^3.0.0
+  glassmorphism: ^2.0.0
+
+  # Local storage
+  shared_preferences: ^2.2.2
+  sqflite: ^2.3.0
+  path: ^1.8.3
+
+  # Lints
+  flutter_lints: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/app_icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/animations/welcome_guy.json
+    - assets/animations/signup.json
+    - assets/dev_avatar.png
+
+  fonts:
+    - family: OpenSans
+      fonts:
+        - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/fonts/OpenSans-Bold.ttf
+        - asset: assets/fonts/OpenSans-Italic.ttf
+          style: italic
