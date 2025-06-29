@@ -107,7 +107,7 @@ https://github.com/user-attachments/assets/dc931939-098e-4e2c-9706-a76eb5cfc7e3
 
 Each document represents a user and is identified by their Firebase Auth UID.
 
-```json
+```ts
 {
   "uid": "string",                // User's UID (same as document ID)
   "email": "string",              // User's email address
